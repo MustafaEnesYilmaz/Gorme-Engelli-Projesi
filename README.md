@@ -15,7 +15,7 @@ Bu proje, görme engelli bireylerin önlerindeki engelleri algılamalarına yard
 
 ## ⚙️ Devre Şeması
 
-![Devre Şeması](devre_semasi.png)
+!Devre şeması şıkıştırılmış klasör içinde mevcuttur
 
 ## 💾 Arduino Kodu
 
