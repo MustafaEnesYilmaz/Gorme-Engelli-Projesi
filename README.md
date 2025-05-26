@@ -32,7 +32,7 @@ Devre, 3D yazıcı ile üretilmiş kompakt bir kutu içerisine yerleştirilerek 
 
 ## 🚀 Nasıl Çalıştırılır?
 1. Devreyi bağlantı şemasına göre kurun.
-2. Arduino IDE veya visual studio code (isteğe bağlı seçebilirsiniz) ile `gorme_engelli.cpp` dosyasını açın.
+2. Arduino IDE veya Visual Studio Code (isteğe bağlı seçebilirsiniz,vscode için PlatformIO eklentisini indirirseniz daha kolay yükleyebilirsiniz) ile `gorme_engelli.cpp` dosyasını açın.
 3. Kodu Arduino'ya yükleyin.
 4. Cihaza 5V güç verin.
 5. Motor, engel 50 cm yakına geldiğinde titreşimle uyarı verir.
