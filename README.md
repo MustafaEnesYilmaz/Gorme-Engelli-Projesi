@@ -3,7 +3,7 @@
 Bu proje, görme engelli bireylerin önlerindeki engelleri algılamalarına yardımcı olmak amacıyla geliştirilmiştir. HC-SR04 ultrasonik sensör ile çevredeki nesnelerin mesafesi ölçülür ve 50 cm'den daha yakına gelen nesneler için titreşim motoru devreye girer. Nesne yaklaştıkça titreşim aralığı kısalır ve uyarı artar.
 
 ## 🛠 Kullanılan Malzemeler
-- Arduino Uno
+- Arduino Uno veya Nano(Nano modeli yer kaplama açısından en uygun modeldir)
 - HC-SR04 Ultrasonik Mesafe Sensörü
 - Titreşim Motoru
 - NPN Transistör (BC547, 2N2222 vb.)
@@ -32,7 +32,7 @@ Devre, 3D yazıcı ile üretilmiş kompakt bir kutu içerisine yerleştirilerek 
 
 ## 🚀 Nasıl Çalıştırılır?
 1. Devreyi bağlantı şemasına göre kurun.
-2. Arduino IDE ile `gorme_engelli.cpp` dosyasını açın.
+2. Arduino IDE veya visual studio code (isteğe bağlı seçebilirsiniz) ile `gorme_engelli.cpp` dosyasını açın.
 3. Kodu Arduino'ya yükleyin.
 4. Cihaza 5V güç verin.
 5. Motor, engel 50 cm yakına geldiğinde titreşimle uyarı verir.
